@@ -13,4 +13,4 @@ By Raul Siles
 
 Check https://github.com/dinosec/iphone-dataprotection for OS X Yosemite (v 10.10.x) with Xcode 6.1.x.
 
-Check https://github.com/dinosec/iphone-dataprotection-elcapitan for OS X El Capitan (v 10.11.x) with Xcode 7.3.x.
+(The project reference for iphone-dataprotection in OS X El Capitan (v 10.11.x), with Xcode 7.3.x, has been removed, as the passcode bypass capabilities do not work in that versions - without doing further analysis)
